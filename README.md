@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=akiy-33&style=for-the-badge&color=ff69b4)
 <!--
 **akiy-33/akiy-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
